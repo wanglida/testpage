@@ -1,6 +1,6 @@
 ## Welcome to Wang Lida's GitHub Pages
 
- Wang Lida, a bachelor of Engineering in Northeastern University, Shenyang, China, is finding a job now. Codes on this Github are uesed to study and copying is not allowed.
+ Wang Lida, a bachelor of Engineering from in Northeastern University, Shenyang, China, is finding a job now. Codes on this Github are uesed to study and copying is not allowed.
 
 ## Research area
 
