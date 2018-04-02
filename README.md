@@ -24,4 +24,4 @@ Not sure that I master them. These tips would be a study plan of future.
 Email: wanglida6@hotmail.com <br>
 Weibo URL:https://weibo.com/u/1971649715/
 
-<a href="/home.html">Personal Home Webpage</a>
+<a href="home.html">Personal Home Webpage</a>
