@@ -75,7 +75,6 @@ html,body{
 }
 #maintext{
 	height:300px;
-	text-align:center;
 	padding:0 20% 0 20%;
 	text-align:center;
 	font-family:"微软雅黑", "宋体";
@@ -117,4 +116,10 @@ html,body{
 }
 #aboutus li a:hover{
 	color:rgb(32,181,236);
+}
+#footer{
+	padding:0 20% 0 20%;
+	text-align:center;
+	font-family:"微软雅黑", "宋体";
+	color:rgb(212,149,105);
 }
