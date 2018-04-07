@@ -1,12 +1,12 @@
 ## Welcome to Wang Lida's GitHub Pages
 
- Wang Lida, a bachelor of Engineering from in Northeastern University, Shenyang, China, is finding a job now. Codes on this Github are uesed to study and copying is not allowed.
+ Wang Lida, a bachelor of Engineering from Northeastern University, Shenyang, China, is finding a job now. Codes here are uesed to study, and copying is not allowed.
 
 ## Research area
 
-Not sure that I master them. These tips would be a study plan of future.
+Not sure that I've mastered anything. These tips would be a learning plan in future.
 
- C#, Windows Forms, Linq;
+ C#, Windows Forms, WCF, Linq;
  
  Python;
  
@@ -16,7 +16,7 @@ Not sure that I master them. These tips would be a study plan of future.
  
  HTML, CSS, JavaScript, XML, ASP.NET, MVC;
  
- Artificial Intelligence(AI) espacially chess game.
+ Artificial Intelligence(AI) espacially Chess Game.
  
  
 
