@@ -118,6 +118,7 @@ html,body{
 	color:rgb(32,181,236);
 }
 #footer{
+	height:100px;
 	padding:0 20% 0 20%;
 	text-align:center;
 	font-family:"微软雅黑", "宋体";
