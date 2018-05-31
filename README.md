@@ -4,7 +4,7 @@
 
 ## Research area
 
-Not sure that I've mastered anything. These tips would be a learning plan in future.
+Not sure that I've mastered anything. These tips will be a learning plan in future.
 
  C#, Windows Forms, WCF, Linq;
  
@@ -16,7 +16,7 @@ Not sure that I've mastered anything. These tips would be a learning plan in fut
  
  HTML, CSS, JavaScript, XML, ASP.NET, MVC;
  
- Artificial Intelligence(AI) espacially Chess Game.
+ Artificial Intelligence(AI) espacially the theory of Chess Game.
  
  
 
